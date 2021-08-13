@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h3 align="center">A passionate full stack develop from Sweden</h3>
+
+- Check my main account [adr29truck](https://github.com/adr29truck)
+
 
 <!--
 **te4-adrian-almetun-smeds/te4-adrian-almetun-smeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
