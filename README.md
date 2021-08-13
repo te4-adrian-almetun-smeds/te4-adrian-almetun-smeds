@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate full stack develop from Sweden</h3>
 
-- Check my main account [adr29truck](https://github.com/adr29truck)
+- Please have a look at my primary account [adr29truck](https://github.com/adr29truck)
 
 
 <!--
